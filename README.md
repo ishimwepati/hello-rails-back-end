@@ -78,7 +78,7 @@ Clone this repository to your desired folder:
 ```
 ```sh
   Here is the link to my Frontend :
-  git https://github.com/ishimwepati/hello-rails-react.git
+  git https://github.com/ishimwepati/hello-react-front-end.git
 ```
 
 ### Install
