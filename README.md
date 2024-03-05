@@ -77,7 +77,7 @@ Clone this repository to your desired folder:
   git clone https://github.com/ishimwepati/hello-rails-back-end.git
 ```
 ```sh
-  My fronted Link :
+  Clikc here to go to My fronted Link :
   git https://github.com/ishimwepati/hello-react-front-end.git
 ```
 
