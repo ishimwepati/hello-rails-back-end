@@ -76,10 +76,13 @@ Clone this repository to your desired folder:
   cd hello-rails-react
   git clone https://github.com/ishimwepati/hello-rails-back-end.git
 ```
+
+###
 ```sh
   Click here to go to My fronted Link :
   git https://github.com/ishimwepati/hello-react-front-end.git
 ```
+####
 
 ### Install
 
